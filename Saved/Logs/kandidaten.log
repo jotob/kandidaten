@@ -1401,3 +1401,373 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.12-10.56.43:740][310]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.03.12-10.56.43:785][311]LogConcert: Display: Server HACTAR2 lost.
 [2021.03.12-10.56.43:837][312]LogConcert: Display: Server HACTAR2 discovered.
+[2021.03.12-11.07.41:802][613]LogConcert: [Pending] Creating Session 'um fungerar kanske'...
+[2021.03.12-11.07.41:802][613]LogConcert: [Pending] Creating Session 'um fungerar kanske'... - Validating Workspace...
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Content: 'D:/unreal/UE_4.26/Engine/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/unreal/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:590][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/unreal/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:591][785]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-11.07.44:736][792]LogConcert: [Pending] Creating Session 'um fungerar kanske'... - Attempting Remote Connection...
+[2021.03.12-11.07.45:653][796]LogConcert: Display: Initialized Concert session 'um fungerar kanske' (Id: CD9350A544F272608210E085E37DCA6E, Owner: jooti).
+[2021.03.12-11.07.45:654][796]LogConcert: Display: Connecting to Concert session 'um fungerar kanske' (Id: CD9350A544F272608210E085E37DCA6E, Owner: jooti).
+[2021.03.12-11.07.45:740][798]LogConcert: Display: Connected to Concert session 'um fungerar kanske' (Id: CD9350A544F272608210E085E37DCA6E, Owner: jooti).
+[2021.03.12-11.07.45:751][799]LogConcert: Display: Synced activity '1' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon joined the session.
+[2021.03.12-11.07.45:788][800]LogConcert: [Success] Created Session 'um fungerar kanske'
+[2021.03.12-11.49.51:806][869]LogConcert: Display: User 'tobia' (Endpoint: EA86B6134FFEC1F35853CB8F49DAFC2F) joined Concert session 'um fungerar kanske' (Id: CD9350A544F272608210E085E37DCA6E, Owner: jooti).
+[2021.03.12-11.49.51:807][869]LogConcert: Display: Synced activity '2' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B joined the session.
+[2021.03.12-12.03.10:677][236]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.12-12.03.10:677][236]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.12-12.04.45:045][298]LogSlate: Took 0.002753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.12-12.15.36:862][949]LogHMD: SteamVR Shutting down.
+[2021.03.12-12.15.39:599][957]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{dee09699-d183-4917-868d-a979628d424c}.
+[2021.03.12-12.15.39:599][957]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.12-12.15.39:667][957]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.15.39:667][957]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.15.40:277][959]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b42dab50-df13-4593-9851-7d9b450e7af2}.
+[2021.03.12-12.15.40:277][959]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.12-12.15.40:329][959]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.15.40:329][959]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.15.41:029][961]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{dee09699-d183-4917-868d-a979628d424c}.
+[2021.03.12-12.15.41:029][961]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.12-12.15.41:091][961]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-12.15.41:091][961]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-12.15.59:200][ 16]LogConcert: Display: Synced activity '3' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B modified Plane_17.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.15.59:202][ 16]LogLinker: Warning: Failed to load '/Game/TEXTURER/Carpet_Mat': Can't find file.
+[2021.03.12-12.15.59:202][ 16]LogLinker: Warning: Failed to load '/Game/TEXTURER/Carpet_Mat': Can't find file.
+[2021.03.12-12.15.59:202][ 16]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/TEXTURER/Carpet_Mat.Carpet_Mat'
+[2021.03.12-12.16.09:036][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.12-12.16.09:067][ 44]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMap_Auto292CCB74846B120D65DF0BAAD95CC713A.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2021.03.12-12.16.09:070][ 44]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.040
+[2021.03.12-12.16.09:070][ 44]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.03.12-12.18.43:381][808]LogConcert: Display: Synced activity '4' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B modified Plane_17.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.19.07:417][880]LogConcert: Display: Synced activity '5' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/carpet_norm.
+[2021.03.12-12.19.09:014][884]LogConcert: Display: Synced activity '6' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B added package /Game/TEXTURER/carpet_norm.
+[2021.03.12-12.19.09:028][884]LogConcert: Display: Synced activity '7' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/carpet_norm.
+[2021.03.12-12.19.14:771][902]LogConcert: Display: Synced activity '8' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/Carpet.
+[2021.03.12-12.19.15:161][903]LogConcert: Display: Synced activity '9' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B added package /Game/TEXTURER/Carpet.
+[2021.03.12-12.19.15:167][903]LogConcert: Display: Synced activity '10' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/Carpet.
+[2021.03.12-12.20.19:545][ 96]LogConcert: Display: Synced activity '11' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/Carpet_Mat.
+[2021.03.12-12.20.22:572][105]LogConcert: Display: Synced activity '12' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B saved package /Game/TEXTURER/Carpet_Mat.
+[2021.03.12-12.20.22:575][105]LogConcert: Display: Synced activity '13' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/Carpet_Mat.
+[2021.03.12-12.20.22:581][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.12-12.20.27:588][120]LogConcert: Display: Synced activity '14' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B modified Plane_17.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.20.27:757][120]LogTexture: Display: Building textures: Carpet (AutoDXT, 1024X1024)
+[2021.03.12-12.20.27:757][120]LogTexture: Display: Building textures: carpet_norm (BC5, 1024X1024)
+[2021.03.12-12.20.27:757][120]LogMaterial: Display: Missing cached shader map for material Carpet_Mat, compiling. 
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.03.12-12.20.27:914][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.03.12-12.26.09:498][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.12-12.26.09:527][406]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMap_Auto3C3F4DB034D67CA7AE9C9A1A67D87621F.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2021.03.12-12.26.09:530][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.036
+[2021.03.12-12.26.09:531][406]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2021.03.12-12.26.42:066][504]LogConcert: Display: Synced activity '15' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/carpet_norm.
+[2021.03.12-12.26.42:067][504]LogConcert: Display: Synced activity '16' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/Carpet.
+[2021.03.12-12.30.32:828][190]LogConcert: Display: Synced activity '17' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/carpet_normal.
+[2021.03.12-12.30.35:157][196]LogConcert: Display: Synced activity '18' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B added package /Game/TEXTURER/carpet_normal.
+[2021.03.12-12.30.35:177][196]LogConcert: Display: Synced activity '19' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/carpet_normal.
+[2021.03.12-12.30.58:381][266]LogConcert: Display: Synced activity '20' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/Carpet_Mat.
+[2021.03.12-12.31.02:428][278]LogConcert: Display: Synced activity '21' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B saved package /Game/TEXTURER/Carpet_Mat.
+[2021.03.12-12.31.02:433][278]LogConcert: Display: Synced activity '22' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/Carpet_Mat.
+[2021.03.12-12.31.02:435][278]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/TEXTURER/Carpet_Mat
+[2021.03.12-12.31.02:480][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.12-12.31.02:576][278]LogTexture: Display: Building textures: carpet_normal (BC5, 1024X1024)
+[2021.03.12-12.31.02:576][278]LogMaterial: Display: Missing cached shader map for material Carpet_Mat, compiling. 
+[2021.03.12-12.31.02:605][278]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Carpet_Mat:MaterialExpressionTextureSample_3' in the new package '/Game/TEXTURER/Carpet_Mat'. Any existing references to this object will be nulled out.
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.03.12-12.31.02:672][278]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.03.12-12.31.02:876][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.03.12-12.32.04:304][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (veg2)
+[2021.03.12-12.32.05:163][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (veg3)
+[2021.03.12-12.32.22:051][836]LogConcert: Display: Synced activity '23' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.32.22:103][839]LogConcert: Display: Synced activity '24' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B added package /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.32.22:105][839]LogConcert: Display: Synced activity '25' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.32.22:149][842]LogConcert: Display: Synced activity '26' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.32.22:252][849]LogConcert: Display: Synced activity '27' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B modified veg3_16.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.32.22:255][849]LogMaterial: Display: Missing cached shader map for material omr_Mat, compiling. 
+[2021.03.12-12.32.22:265][849]LogMaterial: Display: Material /Game/TEXTURER/omr_Mat.omr_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.03.12-12.32.22:267][849]LogMaterial: Display: Missing cached shader map for material omr_Mat, compiling. 
+[2021.03.12-12.32.22:287][849]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.03.12-12.32.22:287][849]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.03.12-12.32.22:287][849]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.03.12-12.32.22:287][849]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.12-12.32.22:287][849]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.03.12-12.32.22:287][849]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.03.12-12.32.22:350][850]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.03.12-12.32.22:350][850]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.03.12-12.32.24:887][915]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.03.12-12.32.25:249][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.03.12-12.32.25:418][940]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.03.12-12.32.25:640][951]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.03.12-12.32.26:507][991]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.03.12-12.32.27:063][ 16]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.12-12.32.27:111][ 18]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.03.12-12.32.27:859][ 48]LogConcert: Display: Synced activity '28' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B modified veg2.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.32.27:942][ 52]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.03.12-12.32.28:333][ 71]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.03.12-12.32.28:474][ 78]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.03.12-12.32.28:534][ 79]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.03.12-12.36.10:294][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.12-12.36.10:328][539]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMap_Auto44A5D2D414F900562E8B81F908E0C94DE.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2021.03.12-12.36.10:331][539]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.044
+[2021.03.12-12.36.10:331][539]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2021.03.12-12.36.10:332][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TEXTURER/omr_Mat] ([1] browsable assets)...
+[2021.03.12-12.36.10:347][539]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TEXTURER/omr_Mat.omr_Mat]
+[2021.03.12-12.36.10:347][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/TEXTURER/omr_Mat]
+[2021.03.12-12.36.10:347][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEXTURER/omr_Mat" FILE="C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/Autosaves/Game/TEXTURER/omr_Mat_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.03.12-12.36.10:353][539]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/omr_Mat_Auto4ABC7096F4C2E8E8A349CAB97C7ED2708.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/Autosaves/Game/TEXTURER/omr_Mat_Auto4.uasset'
+[2021.03.12-12.36.10:362][539]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.03.12-12.36.33:041][175]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.12-12.36.47:044][357]LogConcert: Display: Synced activity '29' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B deleted package /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.36.47:046][357]LogConcert: Display: Synced activity '30' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.36.47:051][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.12-12.37.41:089][  0]LogConcert: Display: Synced activity '31' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B locked /Game/TEXTURER/carpet_normal.
+[2021.03.12-12.41.31:927][686]LogConcert: Display: Synced activity '32' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/Carpet.
+[2021.03.12-12.41.37:653][703]LogConcert: Display: Synced activity '33' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/carpet_norm.
+[2021.03.12-12.41.41:695][715]LogConcert: Display: Synced activity '34' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B unlocked /Game/TEXTURER/carpet_normal.
+[2021.03.12-12.41.55:565][990]LogMaterial: Display: Missing cached shader map for material omr_Mat, compiling. 
+[2021.03.12-12.41.55:573][990]LogMaterial: Display: Material /Game/TEXTURER/omr_Mat.omr_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.03.12-12.41.55:575][990]LogMaterial: Display: Missing cached shader map for material omr_Mat, compiling. 
+[2021.03.12-12.41.55:589][990]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.03.12-12.41.55:589][990]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.03.12-12.41.55:589][990]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.03.12-12.41.55:589][990]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.12-12.41.55:589][990]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.03.12-12.41.55:589][990]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.03.12-12.41.55:617][990]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.03.12-12.41.55:617][990]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.03.12-12.41.55:617][990]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/95C2F5E5471A8207DDEFCB8E8519C909E6DF9BF84CFBD60E97B57885544E5826.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/Temp/95C2F5E5471A8207DDEFCB8E8519C909.uasset'
+[2021.03.12-12.41.55:663][990]AssetCheck: New page: Asset Save: omr_Mat
+[2021.03.12-12.41.55:663][990]LogContentValidation: Display: Validating Material /Game/TEXTURER/omr_Mat.omr_Mat
+[2021.03.12-12.41.55:737][991]LogConcert: Display: Synced activity '35' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon locked /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.41.55:754][991]LogConcert: Display: Synced activity '36' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon added package /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.41.55:754][991]LogConcert: Display: Synced activity '37' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon unlocked /Game/TEXTURER/omr_Mat.
+[2021.03.12-12.41.57:979][ 89]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.03.12-12.41.58:902][134]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.03.12-12.41.59:024][139]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.03.12-12.41.59:180][147]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.03.12-12.41.59:522][165]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.03.12-12.41.59:617][170]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.03.12-12.41.59:715][175]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.03.12-12.42.00:597][217]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.03.12-12.42.01:109][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.03.12-12.42.01:109][235]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.03.12-12.42.01:345][238]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.03.12-12.42.20:385][952]LogConcert: Display: Synced activity '38' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon modified veg2.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.42.22:513][137]LogConcert: Display: Synced activity '39' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon modified veg3_16.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.42.29:597][874]LogConcert: Display: Synced activity '40' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B saved package /Game/TEXTURER/Carpet.
+[2021.03.12-12.42.29:603][874]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/TEXTURER/Carpet
+[2021.03.12-12.42.29:603][874]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.12-12.42.29:608][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.03.12-12.42.29:742][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.12-12.42.31:447][995]LogConcert: Display: Synced activity '41' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B saved package /Game/TEXTURER/carpet_norm.
+[2021.03.12-12.42.31:465][995]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/TEXTURER/carpet_norm
+[2021.03.12-12.42.31:466][995]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.12-12.42.31:473][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.12-12.42.31:656][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.12-12.42.32:765][ 62]LogConcert: Display: Synced activity '42' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B saved package /Game/TEXTURER/carpet_normal.
+[2021.03.12-12.42.32:780][ 62]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/TEXTURER/carpet_normal
+[2021.03.12-12.42.32:780][ 62]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.12-12.42.32:785][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.12-12.42.32:934][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.12-12.42.33:324][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.12-12.42.33:357][ 80]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMapDC461C6248469D62C5DD1EBC3E8CD742.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-12.42.34:410][ 80]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMap_BuiltDataE944952D4997EEF0097E5EAFF980C16B.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.12-12.42.34:670][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-12.42.34:670][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.12-12.42.34:671][ 80]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-12.42.40:393][454]LogConcert: Display: Synced activity '43' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.42.40:642][454]LogConcert: Display: Synced activity '44' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.
+[2021.03.12-12.42.41:364][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Content: 'D:/unreal/UE_4.26/Engine/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:364][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/unreal/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:364][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:364][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:364][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:364][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:364][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/unreal/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:365][522]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.42.41:763][522]EditorErrors: Warning: No assets to check in!
+[2021.03.12-12.42.49:281][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.12-12.42.49:307][302]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMapC40BB02343FCD0F4E4FD9A9F721086C5.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-12.42.50:224][302]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMap_BuiltDataF5C7D1C2411CD699BBE8EDA0BA71A8B7.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.12-12.42.50:470][302]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-12.42.50:471][302]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.12-12.42.50:471][302]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-12.42.54:875][637]LogConcert: Display: Synced activity '45' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2021.03.12-12.42.55:069][637]LogConcert: Display: Synced activity '46' produced by endpoint '71AFAEFC418B3F221A2DC1BAE7491BDD': jon saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.
+[2021.03.12-12.43.23:489][280]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.12-12.43.23:489][280]Can't find target actor or component.
+[2021.03.12-12.43.31:643][133]LogConcert: Display: User 'tobia' (Endpoint: EA86B6134FFEC1F35853CB8F49DAFC2F) left Concert session 'um fungerar kanske' (Id: CD9350A544F272608210E085E37DCA6E, Owner: jooti).
+[2021.03.12-12.43.31:643][133]LogConcert: Display: Synced activity '47' produced by endpoint 'EA86B6134FFEC1F35853CB8F49DAFC2F': T O B left the session.
+[2021.03.12-12.43.32:845][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.03.12-12.43.33:647][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.03.12-12.43.33:973][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.03.12-12.44.01:148][394]LogSlate: Window 'Multi-User Browser' being destroyed
+[2021.03.12-12.44.01:158][394]LogSlate: Window 'Multi-User Browser' being destroyed
+[2021.03.12-12.44.05:229][477]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.44.05:240][477]Message dialog closed, result: Yes, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2021.03.12-12.44.06:967][477]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2021.03.12-12.44.06:989][477]LogConcert: [Pending] Persisting Session Changes
+[2021.03.12-12.44.09:270][477]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2021.03.12-12.44.09:270][477]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2021.03.12-12.44.09:271][477]LogConcert: Display: Disconnected from Concert session 'um fungerar kanske' (Id: CD9350A544F272608210E085E37DCA6E, Owner: jooti).
+[2021.03.12-12.44.09:830][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/Engine/' was aborted.
+[2021.03.12-12.44.09:830][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/kandidaten/' was aborted.
+[2021.03.12-12.44.09:830][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/Paper2D/' was aborted.
+[2021.03.12-12.44.09:830][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/AnimationSharing/' was aborted.
+[2021.03.12-12.44.09:830][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/GeometryMode/' was aborted.
+[2021.03.12-12.44.09:830][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/SpeedTreeImporter/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/ChaosClothEditor/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/ChaosNiagara/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/ChaosSolverPlugin/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/GeometryProcessing/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/MotoSynth/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/Niagara/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/MediaCompositing/' was aborted.
+[2021.03.12-12.44.09:831][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/MagicLeap/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/MultiUserTakes/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/Takes/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/AudioSynesthesia/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/PostSplashScreen/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/DatasmithContent/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/Synthesis/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/OculusVR/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/SteamVR/' was aborted.
+[2021.03.12-12.44.09:832][477]LogDirectoryWatcher: A directory notification for 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Intermediate/Concert/MultiUser/3AEB04C8431F5B330F391395CEAC1A4F/CD9350A544F272608210E085E37DCA6E/Sandbox/ConcertSyncClient/' was aborted.
+[2021.03.12-12.44.09:849][477]LightingResults: New page: Lighting Build
+[2021.03.12-12.44.09:852][477]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.44.09:852][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.44.09:852][477]MapCheck: New page: Map Check
+[2021.03.12-12.44.09:852][477]LightingResults: New page: Lighting Build
+[2021.03.12-12.44.09:857][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.44.09:863][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.12-12.44.09:870][477]LogAIModule: Creating AISystem for world Untitled
+[2021.03.12-12.44.09:872][477]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.12-12.44.09:874][477]LoadErrors: New page: New Map
+[2021.03.12-12.44.09:877][477]LogUObjectGlobals: Reloading 4 Package(s):
+	Asset Name: /Game/TEXTURER/Carpet
+	Asset Name: /Game/TEXTURER/carpet_normal
+	Asset Name: /Game/TEXTURER/Carpet_Mat
+	Asset Name: /Game/TEXTURER/carpet_norm
+[2021.03.12-12.44.09:945][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.12-12.44.10:074][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.03.12-12.44.10:234][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.03.12-12.44.10:331][477]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-12.44.10:331][477]Cmd: MAP LOAD FILE="C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.12-12.44.10:331][477]LightingResults: New page: Lighting Build
+[2021.03.12-12.44.10:331][477]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2021.03.12-12.44.10:332][477]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-12.44.10:332][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-12.44.10:332][477]MapCheck: New page: Map Check
+[2021.03.12-12.44.10:332][477]LightingResults: New page: Lighting Build
+[2021.03.12-12.44.10:337][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.12-12.44.10:340][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.03.12-12.44.10:341][477]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.03.12-12.44.10:348][477]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.12-12.44.10:348][477]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.12-12.44.10:357][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.03.12-12.44.10:362][477]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.12-12.44.10:362][477]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2021.03.12-12.44.10:362][477]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.032
+[2021.03.12-12.44.11:978][477]LogSlate: Window 'Message' being destroyed
+[2021.03.12-12.44.11:998][477]Message dialog closed, result: Ok, title: Message, text: The following packages are in-memory only and cannot be reloaded:
+    /Game/TEXTURER/omr_Mat
+[2021.03.12-12.44.12:004][477]LogConcert: Display: Shutdown Concert session 'um fungerar kanske' (Id: CD9350A544F272608210E085E37DCA6E, Owner: jooti).
+[2021.03.12-12.44.13:540][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.12-12.44.13:578][582]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMap02D7194440CE902D864805BB74694290.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.12-12.44.13:754][582]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/FirstPersonExampleMap_BuiltDataC05DE3A34F3F6E0D8BFDCFA4DFF60966.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.12-12.44.13:764][582]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-12.44.13:764][582]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.12-12.44.13:764][582]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.12-12.44.18:312][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Content: 'D:/unreal/UE_4.26/Engine/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:312][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/unreal/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:312][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/unreal/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/unreal/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.18:313][ 11]SourceControl: fatal: D:/unreal/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'D:/unreal/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/jooti/Documents/Unreal Projects/kandidaten'
+[2021.03.12-12.44.21:909][ 11]LogSlate: Window 'Save Content' being destroyed
+[2021.03.12-12.44.22:079][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEXTURER/omr_Mat" FILE="C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/TEXTURER/omr_Mat.uasset" SILENT=true
+[2021.03.12-12.44.22:085][ 11]LogSavePackage: Moving 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Saved/omr_MatFC8FD4A44139464DB1B3E0986CE887FD.tmp' to 'C:/Users/jooti/Documents/Unreal Projects/kandidaten/Content/TEXTURER/omr_Mat.uasset'
+[2021.03.12-12.44.29:396][ 11]LogSlate: Window 'Submit Files' being destroyed
+[2021.03.12-12.44.30:648][ 11]LogSourceControl: commit successful: [master 9cc8a6f] yes
+[2021.03.12-12.44.30:801][ 11]SourceControl: [master 9cc8a6f] yes
+[2021.03.12-12.44.30:801][ 11]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2021.03.12-12.44.30:801][ 11]SourceControl:  create mode 100644 Content/TEXTURER/Carpet.uasset
+[2021.03.12-12.44.30:801][ 11]SourceControl:  create mode 100644 Content/TEXTURER/Carpet_Mat.uasset
+[2021.03.12-12.44.30:801][ 11]SourceControl:  create mode 100644 Content/TEXTURER/carpet_norm.uasset
+[2021.03.12-12.44.30:801][ 11]SourceControl:  create mode 100644 Content/TEXTURER/carpet_normal.uasset
+[2021.03.12-12.44.30:801][ 11]SourceControl:  create mode 100644 Content/TEXTURER/omr_Mat.uasset
+[2021.03.12-12.44.30:817][ 11]SourceControl: Commited [master 9cc8a6f] yes.
+[2021.03.12-12.44.30:864][ 12]AssetCheck: New page: Asset Save: omr_Mat
+[2021.03.12-12.44.30:864][ 12]LogContentValidation: Display: Validating Material /Game/TEXTURER/omr_Mat.omr_Mat
