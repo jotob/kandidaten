@@ -160,6 +160,10 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/openDoor",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MoveForward axis",
 			"type": "vector1"
 		},
@@ -427,6 +431,7 @@
 			"/actions/main/in/Jump": "Jump",
 			"/actions/main/in/Fire": "Fire",
 			"/actions/main/in/ResetVR": "ResetVR",
+			"/actions/main/in/openDoor": "openDoor",
 			"/actions/main/in/MoveForward axis": "MoveForward",
 			"/actions/main/in/MoveRight axis": "MoveRight",
 			"/actions/main/in/TurnRate axis": "TurnRate",

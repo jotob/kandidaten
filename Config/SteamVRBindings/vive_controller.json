@@ -39,6 +39,47 @@
 							"output": "/actions/main/in/ResetVR"
 						}
 					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/openDoor"
+						}
+					}
+				},
+				{
+					"mode": "dpad",
+					"path": "/user/hand/left/input/trackpad",
+					"parameters":
+					{
+						"sub_mode": "click"
+					},
+					"inputs":
+					{
+						"north":
+						{
+							"output": "/actions/main/in/MoveForward axis"
+						}
+					}
+				},
+				{
+					"mode": "dpad",
+					"path": "/user/hand/right/input/trackpad",
+					"parameters":
+					{
+						"sub_mode": "click"
+					},
+					"inputs":
+					{
+						"north":
+						{
+							"output": "/actions/main/in/MoveRight axis"
+						}
+					}
 				}
 			],
 			"poses": [
@@ -74,5 +115,5 @@
 			]
 		}
 	},
-	"description": "First Person BP Game Template-15228867"
+	"description": "kandidaten-15228867"
 }
